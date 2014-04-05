@@ -1,0 +1,232 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* AppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {904, 585}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1001}";
+		};
+	};
+	1D3623250D0F684500981E51 /* AppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1601, 1755}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 993}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* HelloWorld */ = {
+		activeExec = 0;
+		executables = (
+			EC0EC44F1791BFC20061EB07 /* HelloWorld */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = EC0EC44F1791BFC20061EB07 /* HelloWorld */;
+		activeSDKPreference = iphoneos3.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* HelloWorld */;
+		codeSenseManager = EC0EC4B21791BFCC0061EB07 /* Code sense */;
+		executables = (
+			EC0EC44F1791BFC20061EB07 /* HelloWorld */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					965,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					636.37890625,
+					20,
+					60,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 418369406;
+			PBXWorkspaceStateSaveDate = 418369406;
+		};
+		perUserProjectItems = {
+			ECDA305A18EFD2D2004F1FD9 /* XCBuildMessageTextBookmark */ = ECDA305A18EFD2D2004F1FD9 /* XCBuildMessageTextBookmark */;
+			ECDA308718EFD4A2004F1FD9 /* PBXTextBookmark */ = ECDA308718EFD4A2004F1FD9 /* PBXTextBookmark */;
+			ECDA308818EFD4A2004F1FD9 /* PBXTextBookmark */ = ECDA308818EFD4A2004F1FD9 /* PBXTextBookmark */;
+			ECDA308A18EFD4A2004F1FD9 /* PBXTextBookmark */ = ECDA308A18EFD4A2004F1FD9 /* PBXTextBookmark */;
+			ECF5CB6117923C7D00B78065 /* PBXTextBookmark */ = ECF5CB6117923C7D00B78065 /* PBXTextBookmark */;
+			ECF5CB6217923C7D00B78065 /* PBXTextBookmark */ = ECF5CB6217923C7D00B78065 /* PBXTextBookmark */;
+		};
+		sourceControlManager = EC0EC4B11791BFCC0061EB07 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	302D95EE14D2391D003F00A1 /* MainViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {921, 746}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1232}";
+			sepNavWindowFrame = "{{15, 4}, {980, 874}}";
+		};
+	};
+	302D95EF14D2391D003F00A1 /* MainViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {904, 2171}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1012}";
+			sepNavWindowFrame = "{{15, 4}, {980, 874}}";
+		};
+	};
+	EC0EC44F1791BFC20061EB07 /* HelloWorld */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = HelloWorld;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	EC0EC4B11791BFCC0061EB07 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	EC0EC4B21791BFCC0061EB07 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	ECDA305A18EFD2D2004F1FD9 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Precompile CordovaLib_Prefix.pch";
+		fRef = ECDA305B18EFD2D2004F1FD9 /* CordovaLib_Prefix.pch */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 0;
+		rLoc = 0;
+		rType = 1;
+	};
+	ECDA305B18EFD2D2004F1FD9 /* CordovaLib_Prefix.pch */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CordovaLib_Prefix.pch;
+		path = "/Users/sshikari/dev/JoeOnTheGo-phonegap/CordovaLib/CordovaLib_Prefix.pch";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1128, 504}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 838}";
+		};
+	};
+	ECDA308718EFD4A2004F1FD9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* AppDelegate.m */;
+		name = "AppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 993;
+		vrLoc = 0;
+	};
+	ECDA308818EFD4A2004F1FD9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ECDA308918EFD4A2004F1FD9 /* index.html */;
+		name = "index.html: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1938;
+		vrLoc = 0;
+	};
+	ECDA308918EFD4A2004F1FD9 /* index.html */ = {
+		isa = PBXFileReference;
+		name = index.html;
+		path = "/Users/sshikari/dev/JoeOnTheGo-phonegap/www/index.html";
+		sourceTree = "<absolute>";
+	};
+	ECDA308A18EFD4A2004F1FD9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ECDA308B18EFD4A2004F1FD9 /* CordovaLib_Prefix.pch */;
+		name = "CordovaLib_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 838;
+		vrLoc = 0;
+	};
+	ECDA308B18EFD4A2004F1FD9 /* CordovaLib_Prefix.pch */ = {
+		isa = PBXFileReference;
+		name = CordovaLib_Prefix.pch;
+		path = "/Users/sshikari/dev/JoeOnTheGo-phonegap/CordovaLib/CordovaLib_Prefix.pch";
+		sourceTree = "<absolute>";
+	};
+	ECF5CB6117923C7D00B78065 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 302D95EF14D2391D003F00A1 /* MainViewController.m */;
+		name = "MainViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1012;
+		vrLoc = 0;
+	};
+	ECF5CB6217923C7D00B78065 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* AppDelegate.h */;
+		name = "AppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1001;
+		vrLoc = 0;
+	};
+}
